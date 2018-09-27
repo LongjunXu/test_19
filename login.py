@@ -12,6 +12,8 @@ num6 = 90
 
 num7 = 70
 
+name = "curry"
+
 
 
 
